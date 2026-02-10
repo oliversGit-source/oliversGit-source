@@ -1,7 +1,7 @@
 ## Prospective Data Scientist/Data Engineer 👋
 
 
-[tech-bro-memes-29-8-2-2025](https://github.com/user-attachments/assets/cd69d38b-4ab7-474b-9df9-6b9a2cbbf148)
+![alt text](https://thunderdungeon.com/wp-content/uploads/2025/08/tech-bro-memes-29-8-2-2025.jpg))
 
 **oliversGit-source/oliversGit-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
