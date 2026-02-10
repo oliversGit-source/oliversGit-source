@@ -1,6 +1,8 @@
 ## Prospective Data Scientist/Data Engineer 👋
 
-<!--
+
+<!--![tech-bro-memes-29-8-2-2025](https://github.com/user-attachments/assets/cd69d38b-4ab7-474b-9df9-6b9a2cbbf148)
+
 **oliversGit-source/oliversGit-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
